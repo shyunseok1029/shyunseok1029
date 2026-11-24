@@ -45,7 +45,10 @@ CTF 문제의 실행·관리와 분석을 지원하는 Python 기반 프로젝�
 - 개인 환경에서 containerd, kubeadm, Calico를 사용한 클러스터 구성
 - Node `Ready` 및 주요 시스템 Pod `Running` 상태 확인
 
+## Awards and Honors
+
 - **2026 KISIA 정보보호 경진대회** — 2026년 8월 본선 참가
+  - [참가 확인서 보기](assets/certificates/kisia-2026.png)
 
 ## Security Learning
 
