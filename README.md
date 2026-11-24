@@ -12,7 +12,7 @@
 
 - **[CTF-OS](https://github.com/whatevertakes/CTF-OS)** (WT 조직 팀 프로젝트): Python 기반으로 CTF 문제의 관리·실행과 분석을 지원하는 프로젝트입니다. CLI, Linux / WSL2, Docker sandbox 환경을 사용하며 Managed / Assisted 실행 방식을 제공합니다.
 
-- **MCP Tool Composition Security** (팀 연구 · 진행 중): Python, Docker, uv, pytest 환경에서 다중 MCP 도구 조합의 위험 경로를 분석하고 실행 통제를 평가하는 캡스톤 연구입니다. 연구 완료 전에는 확정된 결과나 저장소 링크를 추가하지 않습니다.
+- **MCP Tool Composition Security** (팀 연구 · 진행 중): Python, Docker, uv, pytest 환경에서 다중 MCP 도구 조합의 위험 경로를 분석하고 실행 통제를 평가하는 캡스톤 연구입니다. 연구 완료 전에는 확정된 결과나 저장소 링크를 추가하지 않았습니다.
 
 - **WhiteHat School Kubernetes Security Project** (교육용 팀 프로젝트): 4개 보안 시나리오 후보와 선정 기준을 조사하고, 시나리오 1의 ServiceAccount / RBAC 설계와 실습용 취약 웹 애플리케이션 개발·검증에 참여했습니다. 최종 결과는 팀 공동 작업으로 완성되었으며 개인 기여와 구분해 소개합니다.
 
