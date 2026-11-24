@@ -18,7 +18,7 @@
 
 ## Personal Projects
 
-- **Personal Kubernetes Infrastructure Practice:** Minikube 및 VMware 기반 멀티노드 Kubernetes 환경을 구성하고 containerd, kubeadm, Calico, RBAC, Helm, Argo CD의 설정과 동작을 실습한 개인 학습 프로젝트입니다.
+- [**Kubernetes Security Lab**](https://github.com/shyunseok1029/kubernetes-security-lab): Minikube 및 VMware 기반 멀티노드 Kubernetes 환경을 구성하고 containerd, kubeadm, Calico, RBAC, Helm, Argo CD의 설정과 동작을 실습한 개인 학습 프로젝트입니다.
 
 ## Awards and Honors
 
