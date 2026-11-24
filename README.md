@@ -36,6 +36,19 @@ CTF 문제의 실행·관리와 분석을 지원하는 Python 기반 프로젝�
 
 다중 MCP 도구의 조합에서 발생할 수 있는 위험 경로를 분석하고 실행 통제를 평가하는 캡스톤 연구입니다. 연구 완료 후 공개 가능한 결과와 저장소를 연결할 예정입니다.
 
+### WhiteHat School Kubernetes Security Project | 팀 프로젝트
+
+WhiteHat School에서 진행한 교육용 Kubernetes 보안 실습 팀 프로젝트입니다. 팀원들과 4개 보안 시나리오 후보를 조사하고 선정 기준을 정리했으며, 시나리오 1의 설계·개발·검증과 문서화에 참여했습니다.
+
+- **My contribution:**
+  - 4개 보안 시나리오 후보 조사 및 선정 기준 정리
+  - 시나리오 1의 ServiceAccount / RBAC 보안 문제 설계 참여
+  - 실습용 취약 웹 애플리케이션 개발 참여
+  - 시나리오 실행·검증 및 보고서·발표 자료 작성 참여
+  - 다른 시나리오의 검증과 문서화 협업
+- **Team scope:** 교육용 Kubernetes 보안 시나리오 설계와 팀 협업 기반 실습 결과 정리
+- **Team note:** 최종 결과물은 여러 팀원의 공동 작업으로 완성되었으며, 위 내용은 확인된 개인 참여 범위만 설명합니다.
+
 ## Security Activities
 
 ### Personal Kubernetes Infrastructure Practice
