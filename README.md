@@ -14,7 +14,7 @@
 
 - **MCP Tool Composition Security** (팀 연구 · 진행 중): Python, Docker, uv, pytest 환경에서 다중 MCP 도구 조합의 위험 경로를 분석하고 실행 통제를 평가하는 캡스톤 연구입니다. 연구 완료 전에는 확정된 결과나 저장소 링크를 추가하지 않았습니다.
 
-- **WhiteHat School Kubernetes Security Project** (화이트 햇 스쿨 4기) : 화이트 햇 스쿨 4기 팀 프로젝트 기간에 진행한 Kubernetes, EKS, AWS 등의 환경에서 수행한 레드티밍 내용을 담았습니다.
+- **WhiteHat School Kubernetes Security Project** (화이트햇 스쿨 4기): Kubernetes 환경에서 발생할 수 있는 보안 문제를 주제로 시나리오를 조사·설계하고, 실습용 웹 애플리케이션과 환경을 구성해 시나리오를 검증한 팀 프로젝트입니다. 팀원들과 실습 과정과 결과를 보고서와 발표 자료로 정리했습니다.
 
 ## Personal Projects
 
