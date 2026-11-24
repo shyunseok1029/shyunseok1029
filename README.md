@@ -14,11 +14,11 @@
 
 - **MCP Tool Composition Security** (팀 연구 · 진행 중): Python, Docker, uv, pytest 환경에서 다중 MCP 도구 조합의 위험 경로를 분석하고 실행 통제를 평가하는 캡스톤 연구입니다. 연구 완료 전에는 확정된 결과나 저장소 링크를 추가하지 않았습니다.
 
-- **WhiteHat School Kubernetes Security Project** (교육용 팀 프로젝트): 4개 보안 시나리오 후보와 선정 기준을 조사하고, 시나리오 1의 ServiceAccount / RBAC 설계와 실습용 취약 웹 애플리케이션 개발·검증에 참여했습니다. 최종 결과는 팀 공동 작업으로 완성되었으며 개인 기여와 구분해 소개합니다.
+- **WhiteHat School Kubernetes Security Project** (화이트 햇 스쿨 4기) : 화이트 햇 스쿨 4기 팀 프로젝트 기간에 진행한 Kubernetes, EKS, AWS 등의 환경에서 수행한 레드티밍 내용을 담았습니다.
 
 ## Personal Projects
 
-- **Personal Kubernetes Infrastructure Practice:** Minikube 및 VMware 기반 멀티노드 Kubernetes 환경을 구성하고 containerd, kubeadm, Calico, RBAC, Helm, Argo CD의 설정과 동작을 실습한 개인 학습 프로젝트입니다. 별도로 작성한 보안 예제는 [Kubernetes Security Lab](https://github.com/shyunseok1029/kubernetes-security-lab)에서 확인할 수 있습니다.
+- **Personal Kubernetes Infrastructure Practice:** Minikube 및 VMware 기반 멀티노드 Kubernetes 환경을 구성하고 containerd, kubeadm, Calico, RBAC, Helm, Argo CD의 설정과 동작을 실습한 개인 학습 프로젝트입니다.
 
 ## Awards and Honors
 
