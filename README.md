@@ -36,9 +36,18 @@ CTF 문제의 실행·관리와 분석을 지원하는 Python 기반 프로젝�
 
 다중 MCP 도구의 조합에서 발생할 수 있는 위험 경로를 분석하고 실행 통제를 평가하는 캡스톤 연구입니다. 연구 완료 후 공개 가능한 결과와 저장소를 연결할 예정입니다.
 
+## Security Activities
+
+### Personal Kubernetes Infrastructure Practice
+
+개인 Minikube 및 VMware 기반 환경에서 Kubernetes 멀티노드 클러스터를 구성하고, Control Plane과 Worker Node의 기본 상태를 확인했습니다.
+
+- 개인 환경에서 containerd, kubeadm, Calico를 사용한 클러스터 구성
+- Node `Ready` 및 주요 시스템 Pod `Running` 상태 확인
+
 ## Security Learning
 
-- **Web:** HTTP, 웹 애플리케이션 보안
-- **Network:** TCP/IP, 네트워크 보안
-- **System:** Linux, 프로세스 및 권한 관리
-- **Cloud:** Docker, Kubernetes 보안 — 장기 관심 분야
+- **Kubernetes / Minikube / RBAC** — 개인 환경에서 기본 Workload와 ServiceAccount, Role, RoleBinding을 구성하고 상태와 권한 확인 흐름을 실습했습니다.
+- **VMware Multi-node Kubernetes** — VMware 기반 멀티노드 클러스터를 구성하고 containerd, kubeadm, Calico 적용 및 Node·시스템 Pod 상태를 검증했습니다.
+- **Helm** — 개인 클러스터에서 Release 설치, replica 변경 Upgrade, Revision 확인 및 Rollback 흐름을 확인했습니다.
+- **Argo CD** — Argo CD를 설치하고 공개 예제 Application의 Manual Sync 및 재동기화 후 상태 복구 흐름을 확인했습니다.
