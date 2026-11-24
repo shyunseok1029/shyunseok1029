@@ -18,6 +18,8 @@
 
 ## Personal Projects
 
+- [**BBS — Bulletin Board System**](https://github.com/shyunseok1029/bbs): Node.js, Express, EJS, Oracle Database 기반 게시판 웹 애플리케이션. 회원·게시글·댓글 관리와 인증·인가 등 웹 보안 기능을 구현한 개인 프로젝트입니다.
+
 - [**Kubernetes Security Lab**](https://github.com/shyunseok1029/kubernetes-security-lab): Minikube 및 VMware 기반 멀티노드 Kubernetes 환경을 구성하고 containerd, kubeadm, Calico, RBAC, Helm, Argo CD의 설정과 동작을 실습한 개인 학습 프로젝트입니다.
 
 ## Awards and Honors
