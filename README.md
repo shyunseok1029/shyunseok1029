@@ -45,6 +45,8 @@ CTF 문제의 실행·관리와 분석을 지원하는 Python 기반 프로젝�
 - 개인 환경에서 containerd, kubeadm, Calico를 사용한 클러스터 구성
 - Node `Ready` 및 주요 시스템 Pod `Running` 상태 확인
 
+- **2026 KISIA 정보보호 경진대회** — 2026년 8월 본선 참가
+
 ## Security Learning
 
 - **Kubernetes / Minikube / RBAC** — 개인 환경에서 기본 Workload와 ServiceAccount, Role, RoleBinding을 구성하고 상태와 권한 확인 흐름을 실습했습니다.
